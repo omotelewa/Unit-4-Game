@@ -1,0 +1,18 @@
+
+body{
+  background-image: url("https://cdn.pixabay.com/photo/2017/07/03/20/17/abstract-2468874_960_720.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.card{
+      background-color: azure;
+}
+
+#imgDiv {
+      display:flex;
+      align-items: center;
+}
+
+img {
+  margin: 5px;
+}
