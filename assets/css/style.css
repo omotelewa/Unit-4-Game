@@ -3,16 +3,44 @@ body{
   background-image: url("https://cdn.pixabay.com/photo/2017/07/03/20/17/abstract-2468874_960_720.jpg");
   background-repeat: no-repeat;
   background-size: cover;
+  color: rgb(94, 255, 0);
+  }
+  
+  card-body{
+      align: center;
+      color: blue;
+  }
+
+ h1 {
+  background-color: 94, 255, 0);
+  color: #ffffff;
+  color: rgb(550, 0, 128);
+  text-shadow: 10px 8px yellow; text-align: center;
 }
+
+p {
+  background-color:#00bfff;
+  border: 6px dotted red;
+  margin:0px;
+  color:black;
+  
+}
+
 .card{
-      background-color: azure;
+      background-color: magenta;
+      text-align: center;
+      vertical-align: center;
+     
+}
+#rules{font-size: 14px; 
+      font color="red";
+
 }
 
 #imgDiv {
       display:flex;
       align-items: center;
+      margin: 15px;
+
 }
 
-img {
-  margin: 5px;
-}
